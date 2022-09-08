@@ -1,0 +1,16 @@
+C:\Users\Fogy\source\repos\Hashing\Hashing\bin\Debug\net5.0\Hashing.exe
+C:\Users\Fogy\source\repos\Hashing\Hashing\bin\Debug\net5.0\Hashing.deps.json
+C:\Users\Fogy\source\repos\Hashing\Hashing\bin\Debug\net5.0\Hashing.runtimeconfig.json
+C:\Users\Fogy\source\repos\Hashing\Hashing\bin\Debug\net5.0\Hashing.runtimeconfig.dev.json
+C:\Users\Fogy\source\repos\Hashing\Hashing\bin\Debug\net5.0\Hashing.dll
+C:\Users\Fogy\source\repos\Hashing\Hashing\bin\Debug\net5.0\ref\Hashing.dll
+C:\Users\Fogy\source\repos\Hashing\Hashing\bin\Debug\net5.0\Hashing.pdb
+C:\Users\Fogy\source\repos\Hashing\Hashing\obj\Debug\net5.0\Hashing.csprojAssemblyReference.cache
+C:\Users\Fogy\source\repos\Hashing\Hashing\obj\Debug\net5.0\Hashing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fogy\source\repos\Hashing\Hashing\obj\Debug\net5.0\Hashing.AssemblyInfoInputs.cache
+C:\Users\Fogy\source\repos\Hashing\Hashing\obj\Debug\net5.0\Hashing.AssemblyInfo.cs
+C:\Users\Fogy\source\repos\Hashing\Hashing\obj\Debug\net5.0\Hashing.csproj.CoreCompileInputs.cache
+C:\Users\Fogy\source\repos\Hashing\Hashing\obj\Debug\net5.0\Hashing.dll
+C:\Users\Fogy\source\repos\Hashing\Hashing\obj\Debug\net5.0\ref\Hashing.dll
+C:\Users\Fogy\source\repos\Hashing\Hashing\obj\Debug\net5.0\Hashing.pdb
+C:\Users\Fogy\source\repos\Hashing\Hashing\obj\Debug\net5.0\Hashing.genruntimeconfig.cache
